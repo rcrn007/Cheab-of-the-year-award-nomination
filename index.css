@@ -1,0 +1,52 @@
+header { 
+    background-color: hsl(174, 70%, 50%);
+    font-size: 120px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    border: 3px solid hsl(174, 70%, 50%);
+    border-radius: 40px;
+}
+h1{
+    color: hsl(60, 70%,50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    font-size: 100px;    
+    display: block;
+    height: 175px;
+    border-radius: 12px;
+} 
+.reasons{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75px;
+    color: hsl(174, 70%, 50%);
+   
+}
+li,
+li,
+li { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: hsl(60, 70%,50%);
+    text-align: center;
+}
+.vibe { 
+    position: relative;
+}
+.stare{
+    position: relative;
+    width: 300px ;
+    height: 400px;
+}
+.cool {
+    position:relative;
+    width: 800px;
+    height: 400px;
+}
+.ken{
+    position: relative;
+    width: 800px;
+    height: 400px;
+}
